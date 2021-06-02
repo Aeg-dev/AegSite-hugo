@@ -10,15 +10,22 @@
   identifier = "help"
   url = "/docs/help/"
 
+
+[[main]]
+  name = "Downloads"
+  url = "/downloads/"
+  weight = 10
+
 [[main]]
   name = "Docs"
   url = "/docs/prologue/introduction/"
-  weight = 10
+  weight = 20
 
 [[main]]
   name = "Blog"
   url = "/blog/"
-  weight = 20
+  weight = 30
+
 
 # [[social]]
 #   name = "Twitter"
