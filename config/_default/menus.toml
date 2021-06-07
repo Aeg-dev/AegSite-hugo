@@ -10,6 +10,12 @@
   identifier = "Introduction"
   url = "/docs/Introduction/"
 
+[[docs]]
+  name = "Miscellaneous"
+  weight = 100
+  identifier = "Miscellaneous"
+  url = "/docs/Miscellaneous/"
+
 
 [[main]]
   name = "Downloads"
