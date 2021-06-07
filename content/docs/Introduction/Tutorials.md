@@ -3,7 +3,7 @@ title: "Tutorials"
 menu:
   docs:
     parent: "Introduction"
-weight: 110
+weight: 60
 toc: true
 ---
 
