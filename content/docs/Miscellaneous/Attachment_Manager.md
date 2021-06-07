@@ -15,7 +15,7 @@ fonts as separate files. However, it is quite limited and is prone to causing
 problems.
 
 ## Overview  ##
-![Attachment_list.png](img/Attachment_list.png){: class="center"}
+![Attachment_list.png](/images/docs/Attachment_list.png)
 
 The entire dialogue is fairly self-explanatory. The two "Attach ..." buttons
 add attachments, "Extract" extracts existing attachments into separate files,
