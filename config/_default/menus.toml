@@ -19,7 +19,7 @@
 
 [[main]]
   name = "Downloads"
-  url = "/downloads/"
+  url = "/downloads/main/"
   weight = 10
 
 [[main]]
