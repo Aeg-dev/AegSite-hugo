@@ -1,3 +1,7 @@
+# Menus - Doks: https://getdoks.org/docs/recipes/menus/
+# Menus | Hugo: https://gohugo.io/content-management/menus/
+
+
 # header-bar/left side: main menus
 main:
   - name: Downloads
