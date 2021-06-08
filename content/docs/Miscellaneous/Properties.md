@@ -1,11 +1,11 @@
 ---
-title: "Script Properties"
-draft: false
+title: Properties
+toc: true
 menu:
   docs:
-    parent: "Miscellaneous"
-weight: 20
-toc: true
+    parent: Miscellaneous
+    name: Script Properties
+    weight: 720
 ---
 
 The **script properties** are some headers and other options that affect the
