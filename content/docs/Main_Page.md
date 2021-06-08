@@ -1,12 +1,10 @@
 ---
 title: "Main Page"
-draft: false
+toc: true
 menu:
   docs:
-    parent: "Navigation"
+    parent: Navigation
     weight: 110
-weight: 100
-toc: true
 ---
 
 
