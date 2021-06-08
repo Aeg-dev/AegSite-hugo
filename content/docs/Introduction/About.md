@@ -1,11 +1,11 @@
 ---
 title: "About"
-draft: false
+toc: true
 menu:
   docs:
-    parent: "Introduction"
-weight: 10
-toc: true
+    parent: Introduction
+    name: What is Aegisub?
+    weight: 110
 ---
 
 Aegisub was originally created as a tool to make typesetting,

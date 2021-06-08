@@ -1,10 +1,11 @@
 ---
-title: "Support"
+title: Support
+toc: true
 menu:
   docs:
-    parent: "Introduction"
-weight: 40
-toc: true
+    parent: Introduction
+    name: Support Aegisub
+    weight: 140
 ---
 
 Do you want to support Aegisub? Well, it's easy!

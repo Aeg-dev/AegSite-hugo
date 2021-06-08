@@ -1,10 +1,10 @@
 ---
 title: "Credits"
+toc: true
 menu:
   docs:
-    parent: "Introduction"
-weight: 30
-toc: true
+    parent: Introduction
+    weight: 130
 ---
 
 Aegisub was originally written by Rodrigo Braz Monteiro with significant contributions from Niels Martin Hansen.

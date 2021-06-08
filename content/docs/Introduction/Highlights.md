@@ -1,10 +1,10 @@
 ---
 title: "Highlights"
+toc: true
 menu:
   docs:
-    parent: "Introduction"
-weight: 20
-toc: true
+    parent: Introduction
+    weight: 120
 ---
 
 

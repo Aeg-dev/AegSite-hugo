@@ -1,10 +1,10 @@
 ---
 title: "Tutorials"
+toc: true
 menu:
   docs:
-    parent: "Introduction"
-weight: 60
-toc: true
+    parent: Introduction
+    weight: 160
 ---
 
 The following tutorials are available for Aegisub:

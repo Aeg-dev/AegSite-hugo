@@ -1,10 +1,10 @@
 ---
 title: "FAQ"
+toc: true
 menu:
   docs:
-    parent: "Introduction"
-weight: 50
-toc: true
+    parent: Introduction
+    weight: 150
 ---
 
 A small collection of Frequently Asked Questions about Aegisub - mostly
