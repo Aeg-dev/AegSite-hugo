@@ -13,6 +13,23 @@
   url = "/blog/"
   weight = 30
 
+# Docs Menus
+[[docs]]
+  name = "Navigation"
+  weight = 110
+
+[[docs]]
+  name = "Introduction"
+  weight = 200
+
+[[docs]]
+  name = "Working with Subtitles"
+  weight = 300
+
+[[docs]]
+  name = "Miscellaneous"
+  weight = 700
+
 
 # [[social]]
 #   name = "Twitter"
