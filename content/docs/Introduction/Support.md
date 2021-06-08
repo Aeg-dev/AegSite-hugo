@@ -5,7 +5,7 @@ menu:
   docs:
     parent: Introduction
     name: Support Aegisub
-    weight: 140
+weight: 240
 ---
 
 Do you want to support Aegisub? Well, it's easy!

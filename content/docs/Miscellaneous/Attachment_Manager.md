@@ -4,7 +4,7 @@ toc: true
 menu:
   docs:
     parent: Miscellaneous
-    weight: 730
+weight: 730
 ---
 
 The attachment manager allows you to attach fonts and/or pictures to your

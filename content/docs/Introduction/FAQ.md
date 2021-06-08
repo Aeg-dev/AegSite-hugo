@@ -4,7 +4,7 @@ toc: true
 menu:
   docs:
     parent: Introduction
-    weight: 150
+weight: 250
 ---
 
 A small collection of Frequently Asked Questions about Aegisub - mostly

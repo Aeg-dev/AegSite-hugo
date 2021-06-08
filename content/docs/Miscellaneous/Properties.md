@@ -5,7 +5,7 @@ menu:
   docs:
     parent: Miscellaneous
     name: Script Properties
-    weight: 720
+weight: 720
 ---
 
 The **script properties** are some headers and other options that affect the

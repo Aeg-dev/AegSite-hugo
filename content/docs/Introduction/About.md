@@ -5,7 +5,7 @@ menu:
   docs:
     parent: Introduction
     name: What is Aegisub?
-    weight: 110
+weight: 210
 ---
 
 Aegisub was originally created as a tool to make typesetting,

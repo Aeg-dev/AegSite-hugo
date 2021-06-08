@@ -5,7 +5,7 @@ menu:
   docs:
     parent: Miscellaneous
     name: Aegisub Options
-    weight: 710
+weight: 710
 ---
 
 Aegisub is highly customizable and hence has a large amount of user-changeable
