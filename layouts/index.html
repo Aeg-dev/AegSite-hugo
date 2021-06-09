@@ -10,7 +10,10 @@
     <div class="col-xl-14 text-center">
       <p class="lead">{{ .Params.lead | safeHTML }}</p>
       <a class="btn btn-primary btn-lg px-4 mb-2" href="{{ "downloads/main/" | relURL }}" role="button">Get started</a>
-      <p class="meta">Open-source BSD-style licenses. <a href="https://github.com/Aegisub/Aegisub">GitHub v{{ .Site.Data.doks.version }}</a></p>
+      <p class="meta">
+        <a href="https://github.com/Aegisub/Aegisub/blob/master/LICENCE">Open-source BSD-style licenses.</a>
+        <a href="https://github.com/Aegisub/Aegisub">GitHub v{{ .Site.Data.doks.version }}</a>
+      </p>
     </div>
   </div>
 </section>
