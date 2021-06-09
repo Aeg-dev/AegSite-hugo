@@ -35,7 +35,7 @@ landscapePhotoWidths = [900, 800, 700, 600, 500]
 portraitPhotoWidths = [800, 700, 600, 500]
 lqipWidth = "20x"
 
-# Footer
+# footer/left side
 footer = "Powered by <a href=\"https://www.networkredux.com/\">NetworkRedux</a>, <a href=\"https://gohugo.io/\">Hugo</a>, and <a href=\"https://getdoks.org/\">Doks</a>"
 
 # Alert
@@ -43,7 +43,7 @@ alert = false
 alertText = "Like Doks? <a class=\"alert-link\" href=\"https://github.com/h-enk/doks/stargazers\">Star on GitHub</a>. Thanks!</a>"
 
 # Edit Page
-docsRepo = "https://github.com/TypesettingTools/Aegisub"
+docsRepo = "https://github.com/Aegisub/Aegisub"
 editPage = false
 
 [options]
